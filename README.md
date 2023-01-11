@@ -12,19 +12,11 @@ Layout UI/UX RocketSeat.
   <a href="#memo-licença">Licença</a>
 </p>
 
-<div class="imgs" align="center" >
-  <img alt="License" src="./capas/01.png">
-  <img alt="License" src="./capas/02.png">
-  <img alt="License" src="./capas/03.png">
+<div align="center" >
+  <img alt="License" src="./capas/01.png" width="33%" display="flex" gap="5px" >
+  <img alt="License" src="./capas/02.png" width="33%" display="flex" gap="5px">
+  <img alt="License" src="./capas/03.png" width="33%" display="flex" gap="5px">
 </div>
-
-<style>
-div.imgs {
-    width:  33%;
-	display: flex;
-    gap: 5px
-}
-</style>
 
 <br>
 
